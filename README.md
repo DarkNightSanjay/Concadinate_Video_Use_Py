@@ -38,6 +38,7 @@ Run the Script:
 After configuring the paths, run the script using Python:
 
       python3 Concatenate.py
+      
 Output:
 
 The script will concatenate all video files in the specified input_folder and save the resulting video as Concatenated_video.mp4 in the specified output_folder.
